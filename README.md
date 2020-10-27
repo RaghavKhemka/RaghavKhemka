@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 👯 I’m looking for an Internship in Data Science
+- 🔭 I’m currently working on making AI models
+- 🌱 I’m currently learning Machine Learning
+
 
 <!--
 **RaghavKhemka/RaghavKhemka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
