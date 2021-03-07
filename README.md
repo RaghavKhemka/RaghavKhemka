@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👯 I’m looking for an Internship in Data Science
+- 👯 I’m looking for an Job in Data Science
 - 🔭 I’m currently working on making AI models
 - 🌱 I’m currently learning Machine Learning
 
