@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 👯 I’m looking for an Job in Data Science
-- 🔭 I’m currently working on making AI models
-- 🌱 I’m currently learning Machine Learning
+- 👯 I’m working as a Data Scientist in Wolters Kluwer
+
+
 
 
 <!--
